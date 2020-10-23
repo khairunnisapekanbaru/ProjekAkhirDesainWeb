@@ -1,0 +1,42 @@
+.nav-link:hover{
+	background-color: grey;
+}
+.display-4{
+	font-weight: bold;
+}
+.carousel-item{
+	height: 670px;
+}
+.carousel-item img{
+	margin-top: -50px;
+}
+.carousel-caption{
+	font-weight: bold;
+	font-family: stencil;
+	color: white;
+	font-style: none;
+}
+.card-body{
+	text-align: justify;
+	color: black;
+}
+.card-text{
+	text-align: center;
+	color: black;
+}
+.link{
+	color: black;
+}
+.card-sambutan{
+	font-size: 14px;
+}
+.table{
+	text-align: center;
+}
+.profil {
+	width				: 200px;
+	height				: 200px;
+	display				: block;
+	float				: right;
+	padding-right		: 25px;
+}
